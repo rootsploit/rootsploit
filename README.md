@@ -1,4 +1,5 @@
-### [RootSploit][website] : Security Researcher | Pentester | Red Team
+### root@rootsploit:~# id
+### [RootSploit][website] - Security Researcher | Pentester | Red Team
 
 ### Connect with me:
 
