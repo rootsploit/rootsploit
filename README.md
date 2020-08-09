@@ -1,4 +1,4 @@
-### [rootsploit][website] Security Researcher 
+### whoami: [RootSploit][website]: Security Researcher | Pentester | Red Team
 
 ### Connect with me:
 
