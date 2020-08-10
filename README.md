@@ -1,5 +1,5 @@
 ### root@rootsploit:~# whoami
-### [RootSploit][website] - Security Researcher | Pentester | Red Team
+## [RootSploit][website] - Security Researcher | Pentester | Red Team
 
 ### Connect with me:
 
