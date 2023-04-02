@@ -12,15 +12,15 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Bug Bounty Recon: Perform Faster Port Scan](https://rootsploit.com/bug-bounty-recon-faster-port-scan/)
-- [HackTheBox Oouch Walkthrough](https://rootsploit.com/hackthebox-oouch-walkthrough/)
-- [HackTheBox Sauna Walkthrough](https://rootsploit.com/hackthebox-sauna-walk-through/)
-- [Exploiting CSRF on JSON Endpoint](https://rootsploit.com/exploiting-csrf-on-json-endpoint-w-o-flash/)
+- [Bug Bounty Recon: Perform Faster Port Scan](http://rootsploit.com/bug-bounty-recon-faster-port-scan/)
+- [HackTheBox Oouch Walkthrough](http://rootsploit.com/hackthebox-oouch-walkthrough/)
+- [HackTheBox Sauna Walkthrough](http://rootsploit.com/hackthebox-sauna-walk-through/)
+- [Exploiting CSRF on JSON Endpoint](http://rootsploit.com/exploiting-csrf-on-json-endpoint-w-o-flash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-[website]: https://rootsploit.com
+[website]: http://rootsploit.com
 [twitter]: https://twitter.com/rootsploit
 [youtube]: https://www.youtube.com/channel/UCVj3Bp30z4_y-rRt-joLQew?sub_confirmation=1
 [instagram]: https://instagram.com/rootsploit
